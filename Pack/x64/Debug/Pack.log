@@ -1,0 +1,9 @@
+﻿  Pack.cpp
+d:\anydream\project\pack\pack\pack.cpp(55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\anydream\project\pack\pack\pack.cpp(175): warning C4244: “return”: 从“int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  main.cpp
+  正在生成代码...
+  Pack.vcxproj -> D:\anydream\project\Pack\x64\Debug\Pack.exe
+  Pack.vcxproj -> D:\anydream\project\Pack\x64\Debug\Pack.pdb (Partial PDB)
